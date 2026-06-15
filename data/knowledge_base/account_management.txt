@@ -1,0 +1,7 @@
+Account Management Policy
+
+For account access issues (login failures, password resets, email changes), first verify the customer's identity by requesting their account ID or registered email address.
+
+Password resets: customers can request a reset link, which expires after 1 hour. If a customer reports being unable to access their account after a recent platform update, ask whether they've tried clearing their browser cache or using an incognito window, as this resolves most post-update login issues.
+
+Email address changes require email verification at both the old and new address before the change takes effect, typically within 1 business day. For account access issues, aim to respond within 4 hours regardless of stated urgency, since account lockout affects the customer's ability to do anything else on the platform.

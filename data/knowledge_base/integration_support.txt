@@ -1,0 +1,5 @@
+Third-Party Integration Support
+
+We support integrations with common tools including Zapier, Asana, ClickUp, BigCommerce, Magento, Figma, and Puppet. If a customer reports an integration failure, first ask for: the exact error message, the API key/credentials status, and recent changes to either platform.
+
+Common causes of integration failures include expired API tokens, version mismatches after software updates, and rate limiting. Most integration issues are resolved within 1-2 business days. For Medium urgency integration tickets, provide the customer with a link to our integration troubleshooting guide and offer to escalate if unresolved after 48 hours.

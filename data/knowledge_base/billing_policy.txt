@@ -1,0 +1,5 @@
+Billing and Refund Policy
+
+Refunds for duplicate charges are processed within 5-7 business days once confirmed. Customers reporting billing discrepancies should be asked for their account ID and the relevant transaction dates.
+
+For subscription cancellations, refunds are only issued if the cancellation was requested within 14 days of the charge. Any billing system discrepancies linked to database migrations should be flagged to the Billing Engineering team directly, as these may affect multiple accounts.

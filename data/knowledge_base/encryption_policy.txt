@@ -1,0 +1,5 @@
+Data Encryption Policy
+
+All customer data, including medical and financial records, must be encrypted both at rest and in transit using AES-256 encryption. If a customer reports encryption failures or outdated encryption standards (such as deprecated TLS versions or unpatched Redis instances), the technical team should immediately escalate to the Security team within 1 hour for High urgency tickets.
+
+For data breach reports, the standard response includes: (1) acknowledging the report within 30 minutes, (2) initiating an internal security audit, (3) providing the customer with a incident reference number, and (4) following up within 24 hours with findings.

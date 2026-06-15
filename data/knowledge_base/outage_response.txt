@@ -1,0 +1,5 @@
+Service Outage Response Protocol
+
+For reported outages or crashes (dashboards, analytics platforms, SaaS tools), High urgency tickets should receive an acknowledgment within 15 minutes. Ask the customer for: timestamps of the outage, error messages, and any recent updates/changes made to their environment.
+
+Known causes of outages include server resource exhaustion, incompatible software updates, and database connection issues. If multiple customers report the same outage within a short window, treat it as a potential platform-wide incident and escalate to the on-call engineering team immediately.

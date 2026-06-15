@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+datasets
+pandas
+groq
+chromadb
+flask

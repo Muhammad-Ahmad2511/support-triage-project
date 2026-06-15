@@ -1,0 +1,7 @@
+venv/
+myenv/
+.env
+__pycache__/
+*.csv
+chroma_store/
+chroma_db/
