@@ -85,7 +85,7 @@ support-triage-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/support-triage-project.git
+git clone https://github.com/Muhammad-Ahmad2511/support-triage-project
 cd support-triage-project
 ```
 
@@ -188,12 +188,3 @@ This project uses a sample of 50 tickets from the [Tobi-Bueck/customer-support-t
 ## 📄 License
 
 This project is for educational/portfolio purposes.
-```
-
-A few notes:
-
-1. Replace `yourusername` in the clone URL with your actual GitHub username once you create the repo.
-2. Create a `screenshots/` folder in your project root and save your two best screenshots there (e.g., `ui-screenshot-1.png`).
-3. I referenced `PROMPT_ENGINEERING.md` in the prompt engineering section — let me know if you want me to draft that next, or if you'd rather skip it and just remove that line.
-
-Want me to draft `PROMPT_ENGINEERING.md` next, or move to GitHub push instructions?
