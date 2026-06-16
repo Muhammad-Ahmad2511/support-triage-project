@@ -5,3 +5,4 @@ __pycache__/
 *.csv
 chroma_store/
 chroma_db/
+results.json
